@@ -1,4 +1,4 @@
-name: Force Sync Main to Upstream
+name: sync_main_to_upstream
 on:
   schedule:
     - cron: '0 0 * * 0'
